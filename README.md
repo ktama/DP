@@ -11,6 +11,7 @@ cntkの場合は下記のコードでできる。
 
 ### PATHの話
 Pythonのパスは、下記の順序で優先して読み込まれる。
+
 [PythonMatrixJp || Pythonのモジュールインポートのしくみ](http://python.matrix.jp/pages/tips/import.html)
 
 1. 実行中のファイルと同じディレクトリ
@@ -24,3 +25,5 @@ Pythonのパスは、下記の順序で優先して読み込まれる。
 [GitHub Microsoft Cognitive Toolkit](https://github.com/Microsoft/CNTK)
 
 #### MNISTサンプルの実行
+
+## Jupyter Notebook
